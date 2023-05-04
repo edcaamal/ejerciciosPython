@@ -1,2 +1,2 @@
 # ejerciciosPython
-Ejercicos clásicos de Python
+Ejercicos Educativos para Python
